@@ -7,7 +7,7 @@
 
 ## About Me ℹ️
 
-Welcome to my GitHub profile! I am Nishi Shrivastava a software developer on an endless journey of learning and growth. I'm deeply passionate about data analysis in all its facets and enjoy leveraging data to gain insights, solve problems, and drive meaningful decisions.
+Welcome to my GitHub profile! I am Nishi Shrivastava a software engineer on an endless journey of learning and growth. I'm deeply passionate about data analysis in all its facets and enjoy leveraging data to gain insights, solve problems, and drive meaningful decisions.
 Feel free to explore my repositories to see my work!
 
 ## 🌱 I'm Currently Learning 
